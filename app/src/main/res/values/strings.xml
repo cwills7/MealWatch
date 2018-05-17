@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Meal Watch</string>
+    <string name="content_authority">com.wills.carl.mealwatch</string>
+    <string name="add_meal_button_text">Add A Meal</string>
+    <string name="meal_watch_home">Meal Watch</string>
+    <string name="sick_button_txt">Feeling Sick?</string>
+    <string name="summary">Summary: \n     Number of items with Gluten: %d \n     Number of items with Dairy: %d</string>
+
+<!-- Admob IDs -->
+    <string name="admob_app_id">ca-app-pub-8945138794185085~5522167142</string>
+    <string name="main_banner">ca-app-pub-8945138794185085/9716277617</string>
+    <string name="date_view_banner">ca-app-pub-8945138794185085/6954382906</string>
+    <string name="add_meal_banner">ca-app-pub-8945138794185085/8790208751</string>
+
+</resources>

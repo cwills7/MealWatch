@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/item_selector">
+
+    <TextView
+        android:id="@+id/upset_desc"
+        android:layout_width="290dp"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/heading_text_size" />
+
+    <ImageView
+        android:id="@+id/dairy_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:paddingStart="@dimen/large_margin"
+        android:paddingEnd="@dimen/large_margin"/>
+
+    <ImageView
+        android:id="@+id/gluten_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:paddingStart="@dimen/large_margin"
+        android:paddingEnd="@dimen/large_margin" />
+
+</LinearLayout>
